@@ -1,4 +1,4 @@
-p {
+.odd {
     background-color:rgb(236, 117, 117);
     font-family:Verdana, DejaVu Sans, sans-serif;
 }   
@@ -10,4 +10,8 @@ p {
 
 .number3 {
     font-size:24px;
+}
+
+.number4 {
+
 }
