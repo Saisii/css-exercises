@@ -25,6 +25,11 @@ body {
   flex-shrink: 0;
 }
 
+.cards {
+  display: flex;
+  flex-wrap: wrap;
+}
+
 .footer {
   height: 72px;
   background: #eee;
@@ -40,4 +45,7 @@ body {
   border: 1px solid #eee;
   box-shadow: 2px 4px 16px rgba(0,0,0,.06);
   border-radius: 4px;
+  padding: 32px;
+  max-width: 256px;
+  margin: 32px;
 }
